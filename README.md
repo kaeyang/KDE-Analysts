@@ -32,8 +32,8 @@ datetime, descartes, folium, geopandas, json, libspatialindex-dev, matplotlib, n
 <br>
 
 <h2> Credits </h2>
-Kevin Yang - https://github.com/D-D-Dean
+Kevin Yang - https://github.com/kaeyang
 <br>
-Dean Bu - https://github.com/kaeyang
+Dean Bu - https://github.com/D-D-Dean
 <br>
 Eric Wu - https://github.com/ZenHWu?fbclid=IwAR2vsELk4ycuDNRxZYOIMoTNaXSVB_kDmrv6WylaCS7eO3Y3rpJ47wdSPno
